@@ -3,10 +3,13 @@
 This file provides guidance to Claude Code (and other AI assistants) when working
 with code in this repository.
 
-## ⚠️ Current state: empty repository
+## ⚠️ Current state: no source code
 
-As of the last update to this file, **MAZARA contains no source code yet** — no
-commits, no files, no build configuration. This document is therefore a *scaffold*.
+As of the last update to this file, **MAZARA contains no source code** and no build
+configuration. The only content besides this file is `classeur-examen-19-10-2026/`:
+generated study documents (Word, PDF, Excel) for a technical-analysis exam. They are
+deliverables, not code, and are not built from anything in this repository. This
+document is therefore still a *scaffold*.
 The sections below are intentionally marked as placeholders and should be filled in
 as the project takes shape.
 
